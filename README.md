@@ -1,6 +1,10 @@
 # Networks Final Project
 
 A comprehensive network traffic analysis and classification system built for academic research and network security applications.
+## REMARK:
+## Due to a heavy amount of pcap files, we couldn't upload them directly to the repository, so we uploaded them into the following drive:
+(https://drive.google.com/drive/folders/1sD26taJF0SN7WwlfZHkfTmrZnU0gUuhX?usp=sharing)
+## Please make sure to bind the file into the following directory:
 
 ## Project Overview
 
