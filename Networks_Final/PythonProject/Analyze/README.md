@@ -181,22 +181,7 @@ We welcome contributions! Feel free to:
 - 🔧 Submit pull requests
 - 📖 Improve documentation
 
-## 📄 License
-
-```
-MIT License
-
-Copyright (c) 2024 Network Traffic Analysis Tool
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
-```
-
 ---
-
-<div align="center">
-
-**⭐ Star this repository if you find it helpful!**
 
 Made with ❤️ for network analysis
 
