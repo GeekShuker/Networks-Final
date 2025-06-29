@@ -1,8 +1,8 @@
 # Networks Final Project
 # Names:
- Meir Shuker
- Amit Nachum
- Eitan Halimi
+ Meir Shuker  
+ Amit Nachum  
+ Eitan Halimi  
 
 A comprehensive network traffic analysis and classification system built for academic research and network security applications.
 ## REMARK:
